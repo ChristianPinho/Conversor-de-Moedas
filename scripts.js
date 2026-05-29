@@ -2,8 +2,6 @@ const convertButton = document.querySelector(".convert-button");
 const currencySelect = document.querySelector(".currency-select");
 const fromCurrencySelect = document.querySelector(".from-currency");
 
-document.querySelector(".input-currency").addEventListener("input", convertValues);
-
 const rates = {
     real: 1,
     dolar: 5.2,
