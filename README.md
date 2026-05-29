@@ -19,7 +19,7 @@ Projeto desenvolvido para praticar HTML, CSS e JavaScript.
 
 Você pode testar a aplicação através do link abaixo:
 
-[Conversor de Moedas](COLE_AQUI_O_LINK_DA_APLICACAO)
+[Conversor de Moedas](https://christianpinho.github.io/Conversor-de-Moedas/)
 
 
 ## 📈 Melhorias Futuras
@@ -38,6 +38,12 @@ Durante o desenvolvimento deste projeto, pratiquei:
 * Captura de eventos de clique;
 * Lógica de conversão de valores;
 * Organização de código em um projeto real.
+
+  ## 📸 Demonstração
+
+
+![Conversor de Moedas Desktop](./assets/Demonstração.png)
+  
 
 
 ## 👨‍💻 Autor
