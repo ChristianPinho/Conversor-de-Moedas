@@ -39,6 +39,12 @@ Durante o desenvolvimento deste projeto, pratiquei:
 * Lógica de conversão de valores;
 * Organização de código em um projeto real.
 
+  ## 📸 Demonstração
+
+
+![Conversor de Moedas Desktop](./assets/Demonstração.png)
+  
+
 
 ## 👨‍💻 Autor
 
